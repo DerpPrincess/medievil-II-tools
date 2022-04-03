@@ -13,7 +13,7 @@ There will be a .asl script included which is for use with Live Split's auto spl
 This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account:
 
 ```
-git clone git@github.com:DerpPrincess/medievil-II-scripts.git
+git clone git@github.com:DerpPrincess/medievil-II-tools.git
 ```
 
 If you want your changes to be added to the main branch, please make a new branch and create a pull request from your branch into the main branch. If you want your changes to be merged quickly, please message `Derp Princess#1337` on Discord. Otherwise, please ping her in the MediEvil speedrunning channel. 
