@@ -9,6 +9,9 @@ The current main benefit of the script is designed for ease of use and understan
 ## ASL Script
 There will be a .asl script included which is for use with Live Split's auto splitter for use with BizHawk. This currently does not exist.
 
+## Models
+Currently included is the Map files of the game in PLY format. These can be opened in tools such as Blender.
+
 # Contribution
 This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account:
 
