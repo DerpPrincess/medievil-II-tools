@@ -10,7 +10,7 @@ The current main benefit of the script is designed for ease of use and understan
 There will be a .asl script included which is for use with Live Split's auto splitter for use with BizHawk. This currently does not exist.
 
 # Contribution
-## This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account:
+This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account:
 
 ```
 git clone git@github.com:DerpPrincess/medievil-II-scripts.git
