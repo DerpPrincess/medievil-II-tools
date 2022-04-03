@@ -1,0 +1,45 @@
+SystemID PSX
+0	S	_	1		freakshow
+0F1618	w	s	0	MainRAM	elephant key 1
+0F161C	w	s	0	MainRAM	elephant key 2
+0	S	_	1		
+0	S	_	1		greenwich
+0F15F0	w	s	0	MainRAM	bellows
+0	S	_	1		
+0	S	_	1		kew gardens
+0F1660	w	s	0	MainRAM	potting shed key
+0F1648	w	s	0	MainRAM	antidote
+0F1654	w	s	0	MainRAM	water tank valve (blue)
+0F164C	w	s	0	MainRAM	pond room valve (green)
+0F1650	w	s	0	MainRAM	hothouse valve (red)
+0	S	_	1		
+0	S	_	1		dankenstein
+0F15EC	w	s	0	MainRAM	torso
+0F15E8	w	s	0	MainRAM	bum
+0F15E4	w	s	0	MainRAM	right arm
+0F15E0	w	s	0	MainRAM	left arm
+0F15DC	w	s	0	MainRAM	right leg
+0F15D8	w	s	0	MainRAM	left leg
+0	S	_	1		
+0	S	_	1		iron slugger
+0F15CC	w	s	0	MainRAM	right arm
+0F15C8	w	s	0	MainRAM	left arm
+0F15C4	w	s	0	MainRAM	right leg
+0F15C0	w	s	0	MainRAM	left leg
+0	S	_	1		
+0	S	_	1		wulfrum hall
+0F1664	w	s	0	MainRAM	front door key
+0	S	_	1		
+0	S	_	1		time machine 
+0F14E0	w	s	0	MainRAM	moon room piece
+0F14D8	w	s	0	MainRAM	music piece room
+0F14DC	w	s	0	MainRAM	satellites room piece
+0	S	_	1		
+0F1644	w	s	0	MainRAM	time stone
+0F162C	w	s	0	MainRAM	king mullock key
+0	S	_	1		
+0	S	_	1		CS descent
+0F15F8	w	s	0	MainRAM	golden cog (Dan)
+0F14B0	w	s	0	MainRAM	golden cog (Danhand)
+0F15FC	w	s	0	MainRAM	spell page
+
