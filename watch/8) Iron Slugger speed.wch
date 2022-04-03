@@ -1,0 +1,29 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+1C4534	b	u	0	MainRAM	1st chunk
+1C45F4	b	u	0	MainRAM	
+1C4638	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Dankenstein speed
+0	S	_	1		
+1CA200	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/Armor speed
+0	S	_	1		
+1C4D9C	w	u	0	MainRAM	
+1C4CDC	w	u	0	MainRAM	
+1C4DE0	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Dankenstein speed
+0	S	_	1		
+1CAA18	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Iron Slugger hp
+0	S	_	1		
+0EEF88	b	u	0	MainRAM	
+0F39B0	b	u	0	MainRAM	
+0F39B4	b	u	0	MainRAM	
+1DF78E	b	u	0	MainRAM	
+0F39B8	b	u	0	MainRAM	
+

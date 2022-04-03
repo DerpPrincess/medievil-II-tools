@@ -1,0 +1,29 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+1CD4A0	b	u	0	MainRAM	1st chunk
+1CD3E0	b	u	0	MainRAM	
+1CD4E4	b	u	0	MainRAM	
+0	S	_	1		
+1CAF7C	b	u	0	MainRAM	2nd chunk
+1CAEBC	b	u	0	MainRAM	
+1CAFC0	b	u	0	MainRAM	
+0	S	_	1		
+1BDE5C	b	u	0	MainRAM	Tomb chunk
+1BDD9C	b	u	0	MainRAM	
+1BDEA0	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/Armor speed
+0	S	_	1		
+1CCAB8	w	u	0	MainRAM	1st chunk
+1CC9F8	w	u	0	MainRAM	
+1CCAFC	w	u	0	MainRAM	
+0	S	_	1		
+1EDF4C	w	u	0	MainRAM	2nd chunk
+1EDE8C	w	u	0	MainRAM	
+1EDF90	w	u	0	MainRAM	
+0	S	_	1		
+1E8E54	w	u	0	MainRAM	Tomb chunk
+1E8D94	w	u	0	MainRAM	
+1E8E98	w	u	0	MainRAM	
+

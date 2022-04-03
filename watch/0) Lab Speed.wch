@@ -1,0 +1,25 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+185B18	b	u	0	MainRAM	
+185A58	b	u	0	MainRAM	
+185B5C	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Dan Hand speed
+0	S	_	1		
+190320	b	u	0	MainRAM	
+190288	b	u	0	MainRAM	
+190364	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/Armor speed
+0	S	_	1		
+1862B8	w	u	0	MainRAM	
+1861F8	w	u	0	MainRAM	
+1862FC	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Dan Hand speed
+0	S	_	1		
+190548	w	u	0	MainRAM	
+1904B0	w	u	0	MainRAM	
+19058C	w	u	0	MainRAM	
+

@@ -1,0 +1,68 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+0	S	_	1		C. Spires
+0	S	_	1		
+1B12D0	w	s	0	MainRAM	1st chunk
+1B1210	w	s	0	MainRAM	
+1B1314	w	s	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Descent
+0	S	_	1		
+1D2880	w	s	0	MainRAM	1st chunk
+1D27C0	w	s	0	MainRAM	
+1D28C4	w	s	0	MainRAM	
+0	S	_	1		
+1CF3D8	w	s	0	MainRAM	2nd chunk
+1CF318	w	s	0	MainRAM	
+1CF41C	w	s	0	MainRAM	
+0	S	_	1		
+0FFABC	w	u	0	MainRAM	first puzzle room animations
+0FFABE	w	s	0	MainRAM	last puzzle room animations
+0	S	_	1		
+1CDF9C	w	u	0	MainRAM	3rd chunk
+1CDEDC	w	u	0	MainRAM	
+1CDFE0	w	u	0	MainRAM	
+0	S	_	1		
+1C6858	w	u	0	MainRAM	4th chunk
+1C6798	w	u	0	MainRAM	
+1C689C	w	u	0	MainRAM	
+0	S	_	1		
+1B95B0	w	u	0	MainRAM	5th chunk (after ww)
+1B94F0	w	u	0	MainRAM	
+1B95F4	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/ Armor speed
+0	S	_	1		
+0	S	_	1		C. Spires
+0	S	_	1		
+1B1AF8	w	u	0	MainRAM	1st chunk
+1B1A38	w	u	0	MainRAM	
+1B1B3C	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Descent
+0	S	_	1		
+1D3028	w	u	0	MainRAM	1st chunk
+1D2F68	w	u	0	MainRAM	
+1D306C	w	u	0	MainRAM	
+0	S	_	1		
+1CFBEC	w	u	0	MainRAM	2nd chunk
+1CFB2C	w	u	0	MainRAM	
+1CFC30	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		
+0FFF50	w	u	0	MainRAM	first puzzle room animations
+0FFF52	w	u	0	MainRAM	last puzzle room animations
+0	S	_	1		
+1CE76C	w	u	0	MainRAM	3rd chunk
+1CE6AC	w	u	0	MainRAM	
+1CE7B0	w	u	0	MainRAM	
+0	S	_	1		
+1C7028	w	u	0	MainRAM	4th chunk
+1C6F68	w	u	0	MainRAM	
+1C706C	w	u	0	MainRAM	
+0	S	_	1		
+1B9DCC	w	u	0	MainRAM	5th chunk (after ww)
+1B9D0C	w	u	0	MainRAM	
+1B9E10	w	u	0	MainRAM	
+

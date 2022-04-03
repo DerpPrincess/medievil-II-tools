@@ -1,0 +1,19 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+1B1B98	b	u	0	MainRAM	
+1B1AD8	b	u	0	MainRAM	
+1B1BDC	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/Armor speed
+0	S	_	1		
+1B23B4	w	u	0	MainRAM	
+1B22F4	w	u	0	MainRAM	
+1B23F8	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		2nd phase hp
+0	S	_	1		
+0F3974	w	u	0	MainRAM	
+0F3970	w	u	0	MainRAM	
+0F3978	w	u	0	MainRAM	Max hp?
+

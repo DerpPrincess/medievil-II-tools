@@ -1,0 +1,40 @@
+SystemID PSX
+0	S	_	1		Base Dan speed
+0	S	_	1		
+1CAFCC	b	u	0	MainRAM	Museum
+1CAF0C	b	u	0	MainRAM	
+1CB010	b	u	0	MainRAM	
+0	S	_	1		
+1C8550	b	u	0	MainRAM	Sewers
+1C8490	b	u	0	MainRAM	
+1C8594	b	u	0	MainRAM	
+0	S	_	1		
+1AC6C0	b	u	0	MainRAM	Whitechapel, The Ripper
+1AC600	b	u	0	MainRAM	
+1AC704	b	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		w/Armor speed
+0	S	_	1		
+1CB7B8	w	u	0	MainRAM	Museum
+1CB6F8	w	u	0	MainRAM	
+1CB7FC	w	u	0	MainRAM	
+0	S	_	1		
+1C8D58	w	u	0	MainRAM	Sewers
+1C8C98	w	u	0	MainRAM	
+1C8D9C	w	u	0	MainRAM	
+0	S	_	1		
+1AC6C0	w	u	0	MainRAM	Whitechapel, The Ripper
+1AC600	w	u	0	MainRAM	
+1AC704	w	u	0	MainRAM	
+0	S	_	1		
+0	S	_	1		Boss fight
+0	S	_	1		
+0F3990	b	u	0	MainRAM	 The Ripper hp
+0F3994	b	u	0	MainRAM	
+0F3998	b	u	0	MainRAM	
+0	S	_	1		
+0EEF88	b	u	0	MainRAM	Kiya hp
+0F39B0	b	u	0	MainRAM	
+0F39B4	b	u	0	MainRAM	
+0F39B8	b	u	0	MainRAM	
+
