@@ -4,7 +4,7 @@ Tools designed for the game MediEvil II for the PlayStation 1 (PSX) for use with
 ## Lua Scripts
 Included is a Lua Script, where the goal of the script is to showcase all important information about the game on screen at all times, with customizable flags for what the user does and does not want to see on screen.
 
-The current main benefit of the script is designed for ease of use and understanding. The goal is someone should NOT have to be a professional Software Engineer to understand what is going on in the script and should be able to make heads or tails out of everything going on (or almost everything) - some things are intentionally wrote poorly to meet this goal, however if need be for optimization some of this behavior may need to be sacrificed.
+The current main benefit of the script is designed for ease of use and understanding. The goal is someone should NOT have to be a professional Software Engineer to understand what is going on in the script and should be able to make heads or tails out of everything going on (or almost everything) - some things are intentionally wrote poorly to meet this goal, however if need be for optimization some of this behavior may need to be sacrificed. The END goal is nothing should outright affect performance, if it does, changes may need to occur. 
 
 ## ASL Script
 There will be a .asl script included which is for use with Live Split's auto splitter for use with BizHawk. This currently does not exist.
