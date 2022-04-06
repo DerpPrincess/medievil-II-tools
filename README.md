@@ -13,7 +13,7 @@ There will be a .asl script included which is for use with Live Split's auto spl
 Currently included is the Map files of the game in PLY format. These can be opened in tools such as Blender.
 
 # Contribution
-This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account:
+This is a repository which should be cloned from GitHub using the command line. You can do this by typing the following git command into a terminal assuming you have a ssh connection on your GitHub account, alternatively clone using GitHub desktop or some other Git GUI program:
 
 ```
 git clone git@github.com:DerpPrincess/medievil-II-tools.git
