@@ -1,5 +1,5 @@
 # MediEvil II Tools
-Tools designed for the game MediEvil II for the PlayStation 1 (PSX) for use with the emulator BizHawk. This is for the SECOND game in the series.
+Tools designed for the game MediEvil II for the PlayStation 1 (PSX) for use with the emulator BizHawk. This is for the SECOND game in the series. For the first game, please see this link: https://github.com/DerpPrincess/medievil-tools
 
 ## Lua Scripts
 Included is a Lua Script, where the goal of the script is to showcase all important information about the game on screen at all times, with customizable flags for what the user does and does not want to see on screen.
